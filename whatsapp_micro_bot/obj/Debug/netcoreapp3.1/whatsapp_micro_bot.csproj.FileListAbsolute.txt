@@ -1,0 +1,17 @@
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\bin\Debug\netcoreapp3.1\whatsapp_micro_bot.exe
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\bin\Debug\netcoreapp3.1\whatsapp_micro_bot.deps.json
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\bin\Debug\netcoreapp3.1\whatsapp_micro_bot.runtimeconfig.json
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\bin\Debug\netcoreapp3.1\whatsapp_micro_bot.runtimeconfig.dev.json
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\bin\Debug\netcoreapp3.1\whatsapp_micro_bot.dll
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\bin\Debug\netcoreapp3.1\whatsapp_micro_bot.pdb
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.csproj.AssemblyReference.cache
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.AssemblyInfoInputs.cache
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.AssemblyInfo.cs
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.csproj.CoreCompileInputs.cache
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.csproj.CopyComplete
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.dll
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.pdb
+C:\Users\murphys_dev\source\repos\whatsapp_micro_bot\whatsapp_micro_bot\obj\Debug\netcoreapp3.1\whatsapp_micro_bot.genruntimeconfig.cache

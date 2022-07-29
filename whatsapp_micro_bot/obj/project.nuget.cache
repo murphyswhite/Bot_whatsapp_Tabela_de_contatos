@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LtXHXCY72eqTliNHlesxg1YylstPOobyZ2laZ7MxS48MVaiIdNte7ppeNLfy4VMBRWxKztBTeH5RnVaIOYlk9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murphys_dev\\source\\repos\\whatsapp_micro_bot\\whatsapp_micro_bot\\whatsapp_micro_bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murphys_dev\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\murphys_dev\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
